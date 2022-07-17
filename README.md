@@ -1,4 +1,4 @@
 # Projeto Prático 
-Grupo de Alunos Faculdade Unicesumar
+Grupo de Alunos da Faculdade Unicesumar
 ## Alunos
 João Paulo Gomes da Silva - Engenharia de Software
